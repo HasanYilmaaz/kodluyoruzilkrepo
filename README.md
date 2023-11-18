@@ -14,4 +14,4 @@ Projemizi cloneladıktan sonra Visiual Studio Code uygulaması ile açınız.
   Pull requestler kabul edilir. Büyük değişiklikler için önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
   ## License
-  [MIT Lisansı](MIT)
+  [MIT](https://opensource.org/license/mit/)
