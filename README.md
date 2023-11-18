@@ -9,4 +9,9 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 Projemizi cloneladıktan sonra Visiual Studio Code uygulaması ile açınız.
 ` cd kodluyoruzilkrepo
   code .`
-  
+
+  ## Contrubuting 
+  Pull requestler kabul edilir. Büyük değişiklikler için önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+  ## License
+  [MIT Lisansı](MIT)
